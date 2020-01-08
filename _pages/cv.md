@@ -11,7 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in National University of Singapore, 2012 - 2017
+* National University of Singapore, 2012 - 2017
+  * Bachelor of Computing (Computer Science), First Class Honors
+  * Bachelor of Science (Applied Mathematics), First Class Honors 
 
 <!-- Work experience
 ======
