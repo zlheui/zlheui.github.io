@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Zhu Lei"
-  avatar           : "profile.png"
+  avatar           : "zhu_lei.jpg"
   bio              : "2017 Ph.D. Candidate, NUS Graduate School for Integrative Sciences and Engineering, National University of Singapore"
   location         : "Singapore"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : https://scholar.google.com/citations?hl=en&user=7sbImykAAAAJ
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=7sbImykAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
