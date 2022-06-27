@@ -26,9 +26,9 @@ Publications
 
 Teaching Assistant
 ======
-  * MA1521 Calculus for Computing, semester 1, 2017/2018
-  * CS5228 Knowledge Discovery and Data Mining, semester 1, 2018/2019
-  * CS5242 Neural Networks and Deep Learning, semester 2, 2018/2019
+  * MA1521 Calculus for Computing, NUS, semester 1, 2017/2018
+  * CS5228 Knowledge Discovery and Data Mining, NUS, semester 1, 2018/2019
+  * CS5242 Neural Networks and Deep Learning, NUS, semester 2, 2018/2019
 
 <!-- Work experience
 ======
