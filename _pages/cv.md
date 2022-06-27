@@ -18,6 +18,18 @@ Education
   * Bachelor of Computing (Computer Science), First Class Honors
   * Bachelor of Science (Applied Mathematics), First Class Honors 
 
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Teaching Assistant
+======
+  * MA1521 Calculus for Computing, semester 1, 2017/2018
+  * CS5228 Knowledge Discovery and Data Mining, semester 1, 2018/2019
+  * CS5242 Neural Networks and Deep Learning, semester 2, 2018/2019
+
 <!-- Work experience
 ======
 * Summer 2015: Research Assistant
