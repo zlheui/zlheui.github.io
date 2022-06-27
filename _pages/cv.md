@@ -18,12 +18,6 @@ Education
   * Bachelor of Computing (Computer Science), First Class Honors
   * Bachelor of Science (Applied Mathematics), First Class Honors 
 
-Publications
-======
-  if author.googlescholar
-    You can find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-  endif
-
 Teaching Assistant
 ======
   * MA1521 Calculus for Computing, NUS, semester 1, 2017/2018
