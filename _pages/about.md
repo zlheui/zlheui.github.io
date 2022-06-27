@@ -19,6 +19,7 @@ I am a Research Fellow in Department of Computer Science, National University of
 <h2>Education</h2>
 * National University of Singapore, Aug. 2017 - June 2022
   * Doctor of Philosophy (Computer Science)
+  * Advisor: Prof. <a href="https://www.comp.nus.edu.sg/~ooibc/">Ooi Beng Chin</a>
 
 * National University of Singapore, Aug. 2012 - May 2017
   * Bachelor of Computing (Computer Science), First Class Honors
