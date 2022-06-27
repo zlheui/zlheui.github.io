@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+Employment
+======
+* Research Fellow, Department of Computer Science, National University of Singapore, Mar. 2022 – Present
+* Research Assistant, Department of Computer Science, National University of Singapore, July 2021 – Feb. 2022
+
+
 Education
 ======
 * National University of Singapore, Aug. 2017 - June 2022
