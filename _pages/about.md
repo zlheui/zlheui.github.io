@@ -33,3 +33,12 @@ I am a Research Fellow in Department of Computer Science, National University of
   * MA1521 Calculus for Computing, NUS, semester 1, 2017/2018
   * CS5228 Knowledge Discovery and Data Mining, NUS, semester 1, 2018/2019
   * CS5242 Neural Networks and Deep Learning, NUS, semester 2, 2018/2019
+
+
+<h2>Awards and Honors</h2>
+  * Research Achievement Award, School of Computing, NUS, semster 2, 2020/2021
+  * Certificate of Distinction in Algorithm & Theory Focus Area, School of Computing, NUS, semester 1, 2016/2017
+  * Certificate of Distinction in Database Systems Focus Area, School of Computing, NUS, semester 2, 2015/2016
+  * Third Prize in 8th School of Computing Term Project Showcase (STePS), School of Computing, NUS, semester 2, 2015/2016
+  * Entered Dean’s List 7 times (Top 5% of the cohort), 2012-2017
+  
