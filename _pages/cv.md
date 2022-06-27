@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Employment
+<!-- Employment
 ======
 * Research Fellow, Department of Computer Science, National University of Singapore, Mar. 2022 – Present
 * Research Assistant, Department of Computer Science, National University of Singapore, July 2021 – Feb. 2022
@@ -34,7 +34,7 @@ Teaching Assistant
 ======
   * MA1521 Calculus for Computing, NUS, semester 1, 2017/2018
   * CS5228 Knowledge Discovery and Data Mining, NUS, semester 1, 2018/2019
-  * CS5242 Neural Networks and Deep Learning, NUS, semester 2, 2018/2019
+  * CS5242 Neural Networks and Deep Learning, NUS, semester 2, 2018/2019 -->
 
 <!-- Work experience
 ======
