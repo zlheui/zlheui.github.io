@@ -11,7 +11,10 @@ redirect_from:
 
 Education
 ======
-* National University of Singapore, 2012 - 2017
+* National University of Singapore, Aug. 2017 - June 2022
+  * Doctor of Philosophy (Computer Science)
+
+* National University of Singapore, Aug. 2012 - May 2017
   * Bachelor of Computing (Computer Science), First Class Honors
   * Bachelor of Science (Applied Mathematics), First Class Honors 
 

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhu Lei"
 title_separator          : "-"
 name                     : &name "Zhu Lei"
-description              : &description "2017 Ph.D. Candidate, NUS Graduate School for Integrative Sciences and Engineering, National University of Singapore"
+description              : &description "2022 Ph.D. Candidate, NUS Graduate School for Integrative Sciences and Engineering, National University of Singapore"
 url                      : https://zlheui.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zlheui/zlheui.github.io"
@@ -88,7 +88,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=7sbImykAAAAJ"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Lei-Zhu-112" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-9193-8234"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
