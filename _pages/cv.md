@@ -27,7 +27,7 @@ Education
 
 Publications
 ======
-  You can find my publications on <u><a href="https://scholar.google.com/citations?hl=en&user=7sbImykAAAAJ">my Google Scholar profile</a>.</u>
+  You can find my publications on <a href="https://scholar.google.com/citations?hl=en&user=7sbImykAAAAJ">my Google Scholar profile</a>.
 
 
 Teaching Assistant
