@@ -38,6 +38,7 @@ I am a Research Fellow in Department of Computer Science, National University of
 
 <h2>Awards and Honors</h2>
   * Research Achievement Award, School of Computing, NUS, semster 2, 2020/2021
+  * APSS-ASJ Best Clinical Research Award, "Deep learning pipeline for automated detection and classification of central canal, lateral recess and neural foraminal stenosis on lumbar spine MRI", in <a href="http://www.congre.co.jp/apss-appos2021/contents/award.html">13th Combined Meeting of Asia Pacific Spine Society & Asia Pacific Paediatric Orthopaedic Society</a>, 2021.
   * Certificate of Distinction in Algorithm & Theory Focus Area, School of Computing, NUS, semester 1, 2016/2017
   * Certificate of Distinction in Database Systems Focus Area, School of Computing, NUS, semester 2, 2015/2016
   * Third Prize in 8th School of Computing Term Project Showcase (STePS), School of Computing, NUS, semester 2, 2015/2016
