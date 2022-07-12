@@ -82,9 +82,7 @@ analytics:
 author:
   name             : "Zhu Lei"
   avatar           : "zhu_lei.jpg"
-  bio              : "Research Fellow
-  Department of Computer Science
-  National University of Singapore"
+  bio              : "Research Fellow\\Department of Computer Science\\National University of Singapore"
   location         : "Singapore"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
