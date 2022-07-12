@@ -10,7 +10,9 @@ locale                   : "en-US"
 title                    : "Zhu Lei"
 title_separator          : "-"
 name                     : &name "Zhu Lei"
-description              : &description "2017 Ph.D. Candidate, Integrative Sciences and Engineering Programme, NUS Graduate School, National University of Singapore"
+description              : &description "Research Fellow,
+                                         Department of Computer Science, 
+                                         National University of Singapore"
 url                      : https://zlheui.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zlheui/zlheui.github.io"
