@@ -47,7 +47,7 @@ I am a Scientist in Institute of High Performance Computing (IHPC), A\*Star, Sin
 
 
 <h2>Professional Services</h2>
-  * <a href="https://loop.frontiersin.org/people/1634408/overview">Reviewer Editor</a>, Frontiers in Public Health - Digital Public Health
+  * <a href="https://loop.frontiersin.org/people/1634408/overview">Review Editor</a>, Frontiers in Public Health - Digital Public Health
   * Conference Review: ICDE 2023, ECAI 2023
   * Journal Review: IEEE JBHI
   
