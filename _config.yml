@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhu Lei"
 title_separator          : "-"
 name                     : &name "Zhu Lei"
-description              : &description "Research Fellow, Department of Computer Science, National University of Singapore"
+description              : &description "Scientist, Institute of High Performance Computing (IHPC), A*Star"
 url                      : https://zlheui.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zlheui/zlheui.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zhu Lei"
   avatar           : "zhu_lei.jpg"
-  bio              : "Research Fellow, Department of Computer Science, National University of Singapore"
+  bio              : "Scientist, Institute of High Performance Computing (IHPC), A*Star"
   location         : "Singapore"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

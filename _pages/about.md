@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Fellow in Department of Computer Science, National University of Singapore under the supervision of Prof. <a href="https://www.comp.nus.edu.sg/~ooibc/">Ooi Beng Chin</a>. My research interests are in Machine Learning, Deep Learning, and Computer Vision, with application in healthcare.
+I am a Scientist in Institute of High Performance Computing (IHPC), A\*Star, Singapore. I received my PhD degree from National University of Singapore in 2022. My research interests are in Machine Learning, Deep Learning, and Computer Vision, with application in healthcare.
 
 
 <h2>Employment</h2>
-* Research Fellow, Department of Computer Science, National University of Singapore, Mar. 2022 – Present
+* Scientist, Institute of High Performance Computing (IHPC), A*Star, Mar. 2023 - Present
+* Research Fellow, Department of Computer Science, National University of Singapore, Mar. 2022 – Mar. 2023
 * Research Assistant, Department of Computer Science, National University of Singapore, July 2021 – Feb. 2022
 
 
@@ -43,4 +44,10 @@ I am a Research Fellow in Department of Computer Science, National University of
   * Certificate of Distinction in Database Systems Focus Area, School of Computing, NUS, semester 2, 2015/2016
   * Third Prize in 8th School of Computing Term Project Showcase (STePS), School of Computing, NUS, semester 2, 2015/2016
   * Entered Dean’s List 7 times (Top 5% of the cohort), 2012-2017
+
+
+<h2>Professional Services</h2>
+  * <a href="https://loop.frontiersin.org/people/1634408/overview">Reviewer Editor</a>, Frontiers in Public Health - Digital Public Health
+  * Conference Review: ICDE 2023, ECAI 2023
+  * Journal Review: IEEE JBHI
   
