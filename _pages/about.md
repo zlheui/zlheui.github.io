@@ -38,7 +38,7 @@ I am a Scientist in Institute of High Performance Computing (IHPC), A\*Star, Sin
 
 
 <h2>Awards and Honors</h2>
-  * <a href="https://sigmod.org/2024-sigmod-systems-award/">SIGMOD Systems Award, SIGMOD, 2024</a>.
+  * <a href="https://sigmod.org/2024-sigmod-systems-award/">SIGMOD Systems Award</a>, SIGMOD, 2024.
   * Research Achievement Award, School of Computing, NUS, semster 2, 2020/2021
   * APSS-ASJ Best Clinical Research Award, "Deep learning pipeline for automated detection and classification of central canal, lateral recess and neural foraminal stenosis on lumbar spine MRI", in <a href="http://www.congre.co.jp/apss-appos2021/contents/award.html">13th Combined Meeting of Asia Pacific Spine Society & Asia Pacific Paediatric Orthopaedic Society</a>, 2021.
   * Certificate of Distinction in Algorithm & Theory Focus Area, School of Computing, NUS, semester 1, 2016/2017
